@@ -15,4 +15,4 @@ This project provides an automated ETL (Extract, Transform, Load) pipeline and a
 * Python, Pandas, Streamlit
 
 ## Live Demo
-👉 [Link to be added once deployed]
+👉https://b2b-portfolio-dashboard-yk9ztryn232ujzcyyy54dr.streamlit.app/
